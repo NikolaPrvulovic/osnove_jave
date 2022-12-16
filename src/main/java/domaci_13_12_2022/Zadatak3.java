@@ -4,6 +4,9 @@ import java.util.Scanner;
 
 public class Zadatak3 {
     public static void main(String[] args) {
+
+//        Napisati program koj racuna Z prema formuli: (X - Y) NA KVADRAT. X i Y su celi brojevi.
+
         Scanner skener = new Scanner(System.in);
 
         System.out.print("Unesite celi broj X: ");
